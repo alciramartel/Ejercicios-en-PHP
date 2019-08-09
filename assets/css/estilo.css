@@ -1,0 +1,220 @@
+body{
+	background: #fff;
+	color: #ddd;
+}
+
+ul{
+	list-style: none;
+}
+input[type="number"]{
+	text-align: center;
+	vertical-align: middle;
+}
+
+textarea{
+	text-align: left;
+}
+
+table{
+	border: 1px solid #ddd;
+}
+
+.table > thead > tr > th:last.child,
+.table > thead > tr > td:last.child,
+.table > tbody > tr > th:last.child{
+	width: 150px !important;
+}
+
+.contenido{
+	/*border:1px solid #ddd;
+	padding: 10px;
+	*/
+	margin: auto;
+	margin-top: 5%;
+	width: 70%;
+	background: #225818;
+}
+
+.editor{
+	margin: auto;
+	width: 80%;
+	padding: 10px 15px;
+	position: relative;
+	color: #000;
+	background-color: #fff;
+	border-radius: 1%;
+	box-shadow: 3px;
+}
+
+.info{
+	color: #000;
+	background-color: #fff;
+	border-radius: 1%;
+	box-shadow: 3px;
+	margin: 10px;
+	width: 90%;
+}
+
+.inicio{
+	vertical-align: middle;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.navbar-default .navbar-brand {
+    color: #0f3b67;
+}
+
+.panel-encabezado{
+	padding: 15px;
+}
+
+.btn-avatar{
+	margin-top: 5%;
+}
+
+.btn-p7{
+	margin-top: 7%;
+}
+
+.btn-p24{
+	margin-top: 24%;
+}
+
+.avatar{
+	width: 100px;
+	height: 100px;
+	border-radius: 15%;
+}
+
+.img-perfil{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+
+.boton{
+	margin-top: 10px;
+}
+
+.btn-accion{
+	margin-top: 25%;
+}
+
+.menu-header{
+	background: #0f3b67;
+	height: 75px;
+	position: relative;
+}
+
+.menu-suario{
+	font-weight: bold;
+	position: absolute;
+	top: 35%;
+	left: 2%;
+	font-size: 18px;
+	color: #d2c1c1;
+}
+
+.menuprincipal{
+	background-color: #0f3b67;
+    border-top: 1px solid #ddd;
+   	color: #d2c1c1;
+   	/*dedada*/
+}
+.navbar-header, .navbar-nav li a:link, .navbar-nav a:visited{
+	color: #dedada !important;
+	font-weight: 400;
+}
+
+.menu li a:link, .menu li a:visited{
+	color: #d2c1c1;
+}
+
+.navbar-nav li a:hover{
+	color: #000 !important;
+	background: #ffcc66 !important;
+}
+
+.menuprincipal ul li a.activo{
+	color: #000;
+	background: #8e969f; 
+	border-top: 1px solid #ddd;
+}
+
+.modal-login{
+	margin-top: 25%;
+	border-radius: 10px;
+}
+
+.cabecera-modal{
+	background: #ad5c0a;
+	color: #fff;
+}
+
+#tituloModal{
+	font-weight: 600;
+	font-family: verdana;
+	font-size: 16px;
+}
+
+.btn-cancelar{
+	background: #8c8b8b;
+	color: #fff;
+	font-weight: 200;
+}
+
+.btn-acceder{
+	background: #4388f1;
+	color: #fff;
+	font-weight: 200;
+}
+
+.resultado{
+	height: 75px;
+	position: relative;
+}
+
+.contenedor-msj{
+	font-weight: bold;
+	position: absolute;
+	top: 35%;
+	left: 2%;
+	font-size: 18px;	
+}
+.mensaje{
+	text-decoration: underline;
+}
+
+.contenedor{
+	position: relative;
+	width: 100%;
+	margin: auto;
+	padding: 10px 15px;
+}
+
+.ui-datepicker .ui-datepicker-title {
+    margin: 0 2.3em;
+    line-height: 1.8em;
+    text-align: center;
+    color: #000;
+}
+
+.contenedor-img{
+	/*border: 1px solid #000;*/
+}
+.resultado-img{
+	/*border: 1px #000 solid;*/
+    float: left;
+    position: relative;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+}
+
+#rimagen{
+	position:relative;
+}
+.eliminar, .descargar{
+	margin:5px;
+}

@@ -1,0 +1,30 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-01-17 18:36:33 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 18:36:33 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 18:36:33 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 18:36:33 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 18:41:56 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 18:41:56 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 18:41:56 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 18:41:56 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 19:20:26 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 19:20:26 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 19:20:26 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 19:20:26 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 20:04:22 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 20:04:22 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 20:04:22 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 20:04:22 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 21:53:56 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 21:53:56 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 21:53:56 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 21:53:56 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 22:37:53 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 22:37:53 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 22:37:53 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 22:37:53 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 22:40:01 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 272
+ERROR - 2017-01-17 22:40:01 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 274
+ERROR - 2017-01-17 22:40:01 --> Severity: Notice  --> Undefined variable: UsuarioAlta C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275
+ERROR - 2017-01-17 22:40:01 --> Severity: Notice  --> Undefined variable: UsuarioAl C:\xampp\htdocs\casasantoslugo\moduloweb\application\views\nuevoservicio_view.php 275

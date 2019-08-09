@@ -1,0 +1,73 @@
+body{
+	background-color: #fff;
+}
+
+.contenedor{
+	display: table;
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+}
+
+.formulario{
+	display: table-cell;
+  	vertical-align: middle;
+}
+
+.login{
+	margin: auto;
+    width: 40%;
+    border: 2px solid #12397d;
+    height: 500px;
+    background: #fff;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.titulo{
+	text-align: center;
+	background-color: #0f3b67;
+	padding: 10px;
+	width: 100%;
+	margin: auto;
+}
+
+.contenido{
+	margin: auto;
+	width: 85%;
+	margin-top: 15%;
+}
+
+.col-btn{
+	float: right;
+	padding: 10px 15px;
+}
+
+.btnLogin{
+	background:#C0C0C0;
+	width: 100%;
+}
+
+.msg-err{
+	margin: auto;
+	width: 85%;
+	position: relative;
+	height: 150px;
+	padding: 10px 15px;
+	color: #a94442;
+}
+
+.registro{
+	text-align: right;
+	padding: 0px 30px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.registro a:link, a:visited{
+	color:#7fb0da; 
+}
+
+.registro a:hover{
+	color: #2969a0;
+}
